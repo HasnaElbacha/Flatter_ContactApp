@@ -12,15 +12,15 @@ Une simple application Flutter pour gérer une liste de contacts. Vous pouvez aj
 
 ### Écran principal
 
-![Écran principal](path/to/your/image.png)
+![Écran principal](https://github.com/HasnaElbacha/Flatter_ContactApp/assets/92520540/1dd1709f-f90a-49bc-87bb-3c3c8d558983)
 
 ### Ajouter un contact
 
-![Ajouter un contact](path/to/your/image.png)
+![Ajouter un contact](https://github.com/HasnaElbacha/Flatter_ContactApp/assets/92520540/6c25c42a-44f2-45e7-b1de-974881b73845)
 
 ### Liste des contacts
 
-![Liste des contacts](path/to/your/image.png)
+![Liste des contacts](https://github.com/HasnaElbacha/Flatter_ContactApp/assets/92520540/bfea760a-e4b3-4d19-8f4f-7c5039774197)
 
 ## Installation
 
@@ -30,6 +30,15 @@ Pour cloner et exécuter cette application, vous aurez besoin de [Git](https://g
 
 1. Clonez le dépôt
    ```sh
-   git clone https://github.com/your-username/contacts-app.git
+   git clone https://github.com/HasnaElbacha/Flatter_ContactApp.git
    ```
-   
+
+2. Installez les dépendances
+    ```sh
+    flutter pub get
+    ```
+
+3. Exécutez l'application
+    ```sh
+    flutter run
+    ```
